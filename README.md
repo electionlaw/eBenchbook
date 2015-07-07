@@ -1,6 +1,7 @@
 # Election Law eBenchbook
 
-[Assisting courts adjudicating election matters](https://www.wm.edu/news/stories/2015/election-law-program-launches-ebenchbook-project.php).
+[Assisting courts adjudicating election matters](https://www.wm.edu/news/stories/2015/election-law-program-launches-ebenchbook-project.php). A rpoject of the Election Law Program, William & Mary Law School / National Center for State Courts.
+
 
 ## Introduction
 
