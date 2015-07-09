@@ -2,12 +2,12 @@
 
 # Planning
 
-* Determine whether the fundamental unit of the data is a law (which may include multiple legal concepts, or only include part of a larger legal concept, or a discrete legal concept (which may include multiple laws, or just part of one law).
+* [Determine whether the fundamental unit of the data is a law](https://github.com/electionlaw/eBenchbook/issues/18) (which may include multiple legal concepts, or only include part of a larger legal concept, or a discrete legal concept (which may include multiple laws, or just part of one law).
 * Schedule the project sprints.
 
 # Development
 
-* Rough in the site, adding custom fields and displaying them in a theme.
+* Rough in the site, [adding custom fields](https://github.com/electionlaw/eBenchbook/issues/21) and [displaying them in a theme](https://github.com/electionlaw/eBenchbook/issues/22).
 * ELP tests adding a handful of records to the system, to see how well the structure matches the data.
 * Iterate.
 
