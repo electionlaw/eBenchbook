@@ -13,12 +13,12 @@
 * Set up WordPress on a staging server, [deploying it from GitHub](https://github.com/electionlaw/eBenchbook/issues/20).
 * Rough in the site, [adding custom fields](https://github.com/electionlaw/eBenchbook/issues/21) and [displaying them in a theme](https://github.com/electionlaw/eBenchbook/issues/22).
 * ELP tests adding a handful of records to the system, to see how well the structure matches the data, and how well the data entry and editorial process matches how they want/need to work.
-* Iterate.
+* Iterate until complete.
 * Document the deployment process.
-* Deploy the site to ELP's server.
-* [ELP enters all laws, legal guidance, etc](https://github.com/electionlaw/eBenchbook/issues/23).
+* Deploy the site to ELP's server using the documentation.
+* [ELP enters all laws, legal guidance, etc.](https://github.com/electionlaw/eBenchbook/issues/23).
 
 ## Acceptance Testing
 
 * Work with a small number of judges (3–5) throughout the development process, to see if the project is meeting their needs.
-* Have one major round of acceptance testing with a larger number of judges (10–20), with a structured feedback process.
+* Have one major round of acceptance testing with a larger number of judges (10–20), with a structured feedback process. The actionable outcomes can either be handled by ELP or comprise the plans for a future project.
