@@ -1,7 +1,6 @@
 # Election Law eBenchbook
 
-[Assisting courts adjudicating election matters](https://www.wm.edu/news/stories/2015/election-law-program-launches-ebenchbook-project.php). A rpoject of the Election Law Program, William & Mary Law School / National Center for State Courts.
-
+[Assisting courts adjudicating election matters](https://www.wm.edu/news/stories/2015/election-law-program-launches-ebenchbook-project.php). A project of the Election Law Program, William & Mary Law School / National Center for State Courts.
 
 ## Introduction
 
@@ -20,3 +19,16 @@ If successful, this project will create a single forum of carefully-crafted inte
 * Assuring a more robust democratic process through community dialogue
 * Fostering of greater public trust of the election system and the judiciary 
 * Increasing legitimacy of election outcomes
+
+## Installation
+
+The project is in the planning stages, and not yet available for installation.
+
+## Contributing
+
+1. Fork it!
+1. Create your feature branch: `git checkout -b my-new-feature`
+1. Commit your changes: `git commit -am 'Add some feature'`
+1. Push to the branch: `git push origin my-new-feature`
+1. Submit a pull request
+
